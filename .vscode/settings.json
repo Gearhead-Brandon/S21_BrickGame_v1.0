@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "tetris.h": "c",
+        "figures.h": "c",
+        "stdbool.h": "c",
+        "fsm.h": "c",
+        "defines.h": "c",
+        "frogger.h": "c",
+        "frog_backend.h": "c",
+        "frog_frontend.h": "c",
+        "objects.h": "c",
+        "time.h": "c",
+        "matrix.h": "c",
+        "tetris_back.h": "c",
+        "frontend.h": "c",
+        "ncurses.h": "c",
+        "state.h": "c",
+        "backend.h": "c",
+        "lib.h": "c",
+        "enums.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "locale.h": "c"
+    }
+}
